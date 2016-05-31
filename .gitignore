@@ -2,7 +2,7 @@
 .project
 .settings
 *.class
-
+src/com/generate/code/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 

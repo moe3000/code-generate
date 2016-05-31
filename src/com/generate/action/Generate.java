@@ -43,7 +43,7 @@ public class Generate {
 		// 目录生成结构：{packageName}/{moduleName}/{dao,entity,service,web}/{subModuleName}/{className}
 		
 		// packageName 包名
-		String packageName = "com.rongdu.eloan.modules";
+		String packageName = "com.generate.code";
 		
 		String moduleName = "system";			// 模块名，例：sys
 		String subModuleName = "";				// 子模块名（可选） 
